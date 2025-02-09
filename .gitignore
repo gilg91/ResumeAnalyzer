@@ -1,0 +1,12 @@
+# Ignore environment files (AWS credentials)
+.env
+resume-uploader_accessKeys.csv
+
+# Ignore Python bytecode
+__pycache__/
+
+# Ignore virtual environment
+venv/
+
+# Ignore uploaded files
+uploads/
